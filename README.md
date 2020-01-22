@@ -57,9 +57,9 @@ end
 ```
 
 [x] 7 > 6
-[x] 7
-[x] false
-[x] 8 > 9
+[X] true
+[ ] false
+[ ] 8 > 9
 
 ???
 
